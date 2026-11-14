@@ -20,15 +20,15 @@ I'm a third-year B.Tech CSE student specializing in Artificial Intelligence and 
 
 ### Projects
 
-**[Exam Seat Finder](https://github.com/shivamkumar2220/seatfindGu)** · [live site](https://seatfindgu.vercel.app)  
+**[Exam Seat Finder](https://github.com/shivamkumar2220/exam-seat-finder)** · [live site](https://seatfindgu.vercel.app)  
 Students had to scroll through a 30,000-row exam seating spreadsheet to find their room and seat. This static site reads the spreadsheet in the browser and finds a student's seat by admission number or name. The data never leaves the device, and a strict Content-Security-Policy blocks all network requests.  
 `JavaScript` `HTML` `CSS` `SheetJS` `Vercel`
 
-**[Fitness Tracker](https://github.com/shivamkumar2220/fitness-tracking-application)**  
+**[Fitness Tracker](https://github.com/shivamkumar2220/fitness-tracker-springboot)**  
 A Spring Boot web app with separate admin and user dashboards for logging workouts, tracking progress and running challenges. It uses JPA with an H2 database, Chart.js for the charts, and unit tests for the service layer.  
 `Java 17` `Spring Boot` `JPA` `H2` `Thymeleaf` `Maven`
 
-**[DSA in Java](https://github.com/shivamkumar2220/DSAassignment)**  
+**[DSA in Java](https://github.com/shivamkumar2220/dsa-java)**  
 Solutions to core problems I've practiced: recursion (Tower of Hanoi, factorial, Fibonacci), arrays and number conversions.  
 `Java`
 
