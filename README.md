@@ -13,11 +13,19 @@ I'm a third-year B.Tech CSE student specializing in Artificial Intelligence and 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=claude&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-6A1B9A?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 - **Languages:** Java (primary), Python, SQL, JavaScript
-- **AI/ML:** Applied machine learning, predictive analytics, building LLM features with the Claude API
+- **Machine learning:** scikit-learn, TensorFlow, applied ML and predictive analytics
+- **Deep learning:** PyTorch, Keras
+- **Data processing:** NumPy, Pandas
+- **LLMs:** Building AI features with the Claude API
 - **Web and backend:** HTML, CSS, JavaScript, Spring Boot with Thymeleaf, Firebase
 - **Fundamentals:** Data structures and algorithms, OOP
 - **Tools:** Git, GitHub, Maven, Vercel
@@ -38,7 +46,6 @@ Solutions to core problems I've practiced: recursion (Tower of Hanoi, factorial,
 
 ### Currently learning
 
-- Machine learning with Python (NumPy, pandas, scikit-learn)
 - Deeper data structures and algorithms in Java
 - Building and deploying ML models as part of real applications
 
