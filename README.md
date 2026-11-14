@@ -11,10 +11,14 @@ I'm a third-year B.Tech CSE student specializing in Artificial Intelligence and 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=claude&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-6A1B9A?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 - **Languages:** Java (primary), Python, SQL, JavaScript
-- **Web:** HTML, CSS, JavaScript, Spring Boot with Thymeleaf
+- **AI/ML:** Applied machine learning, predictive analytics, building LLM features with the Claude API
+- **Web and backend:** HTML, CSS, JavaScript, Spring Boot with Thymeleaf, Firebase
 - **Fundamentals:** Data structures and algorithms, OOP
 - **Tools:** Git, GitHub, Maven, Vercel
 
