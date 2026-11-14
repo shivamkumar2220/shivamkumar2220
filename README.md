@@ -49,7 +49,9 @@ Solutions to core problems I've practiced: recursion (Tower of Hanoi, factorial,
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamkumar2220&show_icons=true&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar2220&layout=compact&hide_border=true)
 
-### Contact
+### Connect with me
 
-- LinkedIn: _add your LinkedIn URL_
-- Email: _add your email_
+I'm open to internships, project collaborations and conversations about AI/ML and software development. LinkedIn is the best place to reach me.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-889159361/)
+[![Gmail](https://img.shields.io/badge/Gmail-shivamkumarstudy60-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamkumarstudy60@gmail.com)
